@@ -1,0 +1,23 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: rgb(201, 22, 126);
+  font-weight: bold;
+}
+
+img {
+  height: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+footer {
+  background-color: #D9D9D9;
+  width: 1341px;
+  height: 40px;
+  top: 957px;
+  text-align: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
